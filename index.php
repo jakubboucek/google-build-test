@@ -1,3 +1,1 @@
-:-)
-<?php
-phpinfo();
+<h1><?= getenv('K_REVISION');
